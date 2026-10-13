@@ -1,0 +1,11 @@
+node_modules/
+frontend/dist/
+backend/.venv/
+backend/run/
+deploy/haibo.nginx.conf
+backend/config_local.py
+.env
+backend/.env
+__pycache__/
+*.pyc
+.vite/
